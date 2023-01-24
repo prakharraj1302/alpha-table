@@ -1,0 +1,16 @@
+
+.tab{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+}
+tr,th{
+    background-color: #7fffd4;
+    border: 1px solid black;
+    height: 50px;
+    width: 1000px;
+    border-radius: 5%;
+}
+tr,th:hover{
+    background-color: greenyellow;
+}
